@@ -1,0 +1,19 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "Social network to share happy moments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chitraphp/Instagram.git"
+  },
+  "author": "chitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chitraphp/Instagram/issues"
+  },
+  "homepage": "https://github.com/chitraphp/Instagram#readme"
+}
